@@ -18,6 +18,9 @@ CPA (Cost per Acquisition)
 Compare performance across:
 Platforms (Facebook, Google, Instagram, LinkedIn)
 
+---
+<img width="580" height="327" alt="image" src="https://github.com/user-attachments/assets/2c1049bd-2695-40dd-9763-cb1274d7462b" />
+
 ## 🧰 Tools & Technologies Used
 
 Power BI Desktop
